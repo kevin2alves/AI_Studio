@@ -1,0 +1,6 @@
+{
+  "name": "SQL Server Performance Dashboard",
+  "description": "Enterprise SQL Server performance monitoring dashboard featuring real-time CPU, memory, disk I/O, active & blocking sessions, deadlocks, database growth, backups, recovery models, and index fragmentation analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
